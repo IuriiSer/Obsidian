@@ -1,0 +1,2 @@
+### What Is 
+[MVC](https://towardsdatascience.com/everything-you-need-to-know-about-mvc-architecture-3c827930b4c1#:~:text=%2DMVC%20is%20an%20architectural%20pattern,the%20view%20whenever%20data%20changes.) -> is known as an architectural pattern, which embodies three parts Model, View and Controller, or to be more exact it divides the application into three logical parts: the model part, the view and the controller. It was used for desktop graphical user interfaces but nowadays is used in designing mobile apps and web apps.

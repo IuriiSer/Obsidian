@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "6b263a2bf6283414",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b825843662408b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ORMS/Sequelize.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "603a3e3bbaf1a2c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f989b0ec93b96a39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "905044e8a9b9f979",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ae2491f4d18f672",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a28b81eb2af8e6d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "726141fa8bf8d842",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e6bb5fc37038cad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254e3c07cc691462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ORMS/Sequelize.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4f8ccc9942cc45eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ORMS/Sequelize.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03c2d47309a67e9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f6ca195ff220defa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ORMS/Sequelize.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 188.5,
+    "collapsed": true
+  },
+  "active": "8b825843662408b6",
+  "lastOpenFiles": [
+    "Architecture/MVC.md",
+    "Architecture/Fetch API + Ajax.md",
+    "Frameworks/Express/Express.md",
+    "ORMS/Sequelize.md",
+    "Middlewares/Morgan.md",
+    "Servers/React SSR + Express.md",
+    "Frontend Toolkits/Bootstrap.md",
+    "Architecture/Environment.md",
+    "Architecture/Architecture.md",
+    "React/Syntax/React Components.md"
+  ]
+}
