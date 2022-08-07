@@ -1,0 +1,1 @@
+# [HTML Web Storage API](https://www.w3schools.com/html/html5_webstorage.asp)

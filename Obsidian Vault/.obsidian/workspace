@@ -7,13 +7,8 @@
         "id": "8b825843662408b6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ORMS/Sequelize.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "boo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ORMS/Sequelize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ORMS/Sequelize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ORMS/Sequelize.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -132,15 +123,15 @@
   },
   "active": "8b825843662408b6",
   "lastOpenFiles": [
-    "Architecture/MVC.md",
-    "Architecture/Fetch API + Ajax.md",
-    "Frameworks/Express/Express.md",
-    "ORMS/Sequelize.md",
-    "Middlewares/Morgan.md",
     "Servers/React SSR + Express.md",
-    "Frontend Toolkits/Bootstrap.md",
-    "Architecture/Environment.md",
+    "Architecture/Page Constructor.md",
+    "Architecture/Server Side Rendering.md",
+    "Architecture/Dynamic Script Adding.md",
+    "Architecture/Client-rendered Application.md",
+    "Architecture/Fetch API + Ajax.md",
+    "Architecture/HTML Web Storage API.md",
+    "Architecture/MVC.md",
     "Architecture/Architecture.md",
-    "React/Syntax/React Components.md"
+    "React/React SSR.md"
   ]
 }

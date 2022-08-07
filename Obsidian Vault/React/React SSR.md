@@ -1,5 +1,5 @@
 ### What Is 
-What is Server-Side Rendering? Server-side rendering with JavaScript libraries like [[React]] is **where the server returns a ready to render HTML page and the JS scripts required to make the page interactive**. The HTML is rendered immediately with all the static elements.
+-> [[Server Side Rendering]]
 
 ### What make React to SSR
 -> [ReactDOMServer](https://ru.reactjs.org/docs/react-dom-server.html) <- The `ReactDOMServer` object enables you to render components to static markup. Typically, it’s used on a Node server:
