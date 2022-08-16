@@ -92,6 +92,16 @@ A.belongsToMany(B, { through: 'C', foreignKey: 'C.key' });
 	// A BelongsToMany B through the junction table C
 ```
 
+#### References
+```
+await queryInterface.createTable('Cards', {
+...
+	references: {
+	model: 'Desks', <- table name
+	key: 'id',
+	},
+...
+```
 #### Finders
 Docs -> https://sequelize.org/docs/v6/core-concepts/model-querying-finders/
 
@@ -146,4 +156,14 @@ const { count, rows } = await Project.findAndCountAll({
 });
 console.log(count);
 console.log(rows);
+```
+
+#### Operators
+```
+const { Op } = require('sequelize');
+
+...
+const findedUser = 
+	await User.findOne({ where: { [Op.or]: [{ nickName }, { email }] } });
+...
 ```

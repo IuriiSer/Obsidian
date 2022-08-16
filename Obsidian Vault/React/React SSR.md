@@ -78,3 +78,22 @@ app.get('/', (req, res) => {
 	res.end(html);
 });
 ```
+
+### Common func to start project
+**don\`t forget to inir res.locals.titlr in middlewares funcs**
+```
+const ReactDOMServer = require('react-dom/server');
+const React = require('react');
+
+function renderPage(page, props, res) {
+	const { title } = res.locals;
+	const main = React.createElement(page, { ...props, title });
+	const html = ReactDOMServer.renderToStaticMarkup(main);
+	res.write('<!DOCTYPE html>');
+	res.end(html);
+}
+
+  
+
+module.exports = renderPage;
+```

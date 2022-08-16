@@ -2,13 +2,21 @@
 
 ### Component on ES6
 ```
-class Board extends React.Component {
-  renderSquare(i) {
-    return <Square value={i} />;
+const React = require('react');
+
+class Board extends React.PureComponent {
+  render() {
+    return (
+	    <Square value={i} />
+    );
   }
 }
+
+module.exports = Board
 ```
 ```
+const React = require('react');
+
 class Square extends React.Component {
   render() {
     return (

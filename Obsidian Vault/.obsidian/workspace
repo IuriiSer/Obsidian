@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b825843662408b6",
+        "id": "95cc87480e82a9c1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Frameworks/Express/Express.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "boo",
+                "query": "headers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frameworks/Express/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frameworks/Express/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frameworks/Express/Express.md"
+              }
             }
           }
         ],
@@ -121,17 +130,17 @@
     "width": 188.5,
     "collapsed": true
   },
-  "active": "8b825843662408b6",
+  "active": "95cc87480e82a9c1",
   "lastOpenFiles": [
-    "Servers/React SSR + Express.md",
-    "Architecture/Page Constructor.md",
-    "Architecture/Server Side Rendering.md",
-    "Architecture/Dynamic Script Adding.md",
-    "Architecture/Client-rendered Application.md",
+    "Frameworks/Express/WebSockets.md",
+    "Frameworks/Express/Sessions and Cookies.md",
     "Architecture/Fetch API + Ajax.md",
-    "Architecture/HTML Web Storage API.md",
-    "Architecture/MVC.md",
+    "Frameworks/Express/Express.md",
+    "Frontend Toolkits/Bootstrap.md",
     "Architecture/Architecture.md",
-    "React/React SSR.md"
+    "Frameworks/Express/Session Theory.md",
+    "Frameworks/Express/Cookies Theory.md",
+    "Architecture/Cookies Client Parser.md",
+    "Architecture/Client-rendered Application.md"
   ]
 }
