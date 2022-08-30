@@ -7,9 +7,25 @@
 -> шаблонизаторы отделяют View от всего остального<br>
 -> слой View в [[MVC]]<br>
 [[React SSR]]
-
-### Require
+### Common
+#### Require
 [[Babel React]] -> [[jsx Syntax]]
 
-### Syntax
+#### Syntax
 [[React Components]]
+
+### Eslint
+To install [Eslint](https://www.npmjs.com/package/eslint-config-react-app) use 
+```
+npm install --save-dev eslint-config-react-app eslint@^8.0.0
+
+```
+Then create a file named `.eslintrc.json` with following contents in the root folder of your project:
+```
+extends: [
+	'react-app',
+	'plugin:react/recommended',
+	'airbnb',
+],
+rules: { 'react/jsx-filename-extension': [1, { extensions: ['.js', '.jsx'] }], },
+```

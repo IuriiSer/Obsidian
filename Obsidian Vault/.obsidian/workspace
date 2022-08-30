@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "95cc87480e82a9c1",
+        "id": "a5d19f623f6101c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Frameworks/Express/Express.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -41,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headers",
+                "query": "fetch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Express/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Express/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frameworks/Express/Express.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -130,17 +121,17 @@
     "width": 188.5,
     "collapsed": true
   },
-  "active": "95cc87480e82a9c1",
+  "active": "a5d19f623f6101c5",
   "lastOpenFiles": [
-    "Frameworks/Express/WebSockets.md",
-    "Frameworks/Express/Sessions and Cookies.md",
-    "Architecture/Fetch API + Ajax.md",
-    "Frameworks/Express/Express.md",
-    "Frontend Toolkits/Bootstrap.md",
-    "Architecture/Architecture.md",
-    "Frameworks/Express/Session Theory.md",
-    "Frameworks/Express/Cookies Theory.md",
-    "Architecture/Cookies Client Parser.md",
-    "Architecture/Client-rendered Application.md"
+    "Architecture/Client-rendered Application.md",
+    "Frontend Toolkits/Frontend Toolkits.md",
+    "Frontend Toolkits/Bootstrap/Bootstrap.md",
+    "NPM Packages/uuid.md",
+    "NPM Packages/Chart.js.md",
+    "NPM Packages/Morgan.md",
+    "NPM Packages/Nodemon.md",
+    "NPM Packages/NPM Packages.md",
+    "ORMS/ORMS.md",
+    "ORMS/Redis.md"
   ]
 }

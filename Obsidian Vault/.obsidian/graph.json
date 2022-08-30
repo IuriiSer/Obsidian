@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "path:\"NPM Packages\"",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10.0854700854701,
   "linkStrength": 0.64957264957265,
   "linkDistance": 30,
-  "scale": 0.6872757426070556,
+  "scale": 0.33576579988114924,
   "close": false
 }

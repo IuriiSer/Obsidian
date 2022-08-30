@@ -167,3 +167,33 @@ const findedUser =
 	await User.findOne({ where: { [Op.or]: [{ nickName }, { email }] } });
 ...
 ```
+####  Restrict for 2 colums
+```
+var Tag = sequelize.define('Tag', {
+		... fields
+	},
+	{
+	    indexes: [
+	        {
+	            unique: true,
+	            fields: ['user_id', 'count', 'name']
+	        }
+	    ]
+	}
+);
+```
+#### Check Connection to db
+```
+const { sequelize } = require('./models');
+
+module.exports = async () => {
+	try {
+		await sequelize.authenticate();
+		return true;
+	} catch (error) {
+		throw new Error('Problem throw Authenticate DB', error);
+	}
+};
+```
+### Tips
+[[Working with Array]] <- if your data in `'[val1, val2, val3]'`  format
