@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -48,18 +48,32 @@
         "a": 1,
         "rgb": 10506976
       }
+    },
+    {
+      "query": "path:\"Open API\"",
+      "color": {
+        "a": 1,
+        "rgb": 7105739
+      }
+    },
+    {
+      "query": "path:\"Frontend Toolkits\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701254
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.256410256410256,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 1.18888888888889,
+  "lineSizeMultiplier": 0.895726495726496,
+  "collapse-forces": false,
+  "centerStrength": 0.401709401709402,
   "repelStrength": 10.0854700854701,
-  "linkStrength": 0.64957264957265,
+  "linkStrength": 0.803418803418804,
   "linkDistance": 30,
-  "scale": 0.33576579988114924,
-  "close": false
+  "scale": 0.48037869379824427,
+  "close": true
 }

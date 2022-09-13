@@ -7,8 +7,13 @@
         "id": "a5d19f623f6101c5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Frameworks/Express/WebSockets.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fetch",
+                "query": "webs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frameworks/Express/WebSockets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frameworks/Express/WebSockets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frameworks/Express/WebSockets.md"
+              }
             }
           }
         ],
@@ -123,15 +133,15 @@
   },
   "active": "a5d19f623f6101c5",
   "lastOpenFiles": [
-    "Architecture/Client-rendered Application.md",
-    "Frontend Toolkits/Frontend Toolkits.md",
-    "Frontend Toolkits/Bootstrap/Bootstrap.md",
-    "NPM Packages/uuid.md",
-    "NPM Packages/Chart.js.md",
-    "NPM Packages/Morgan.md",
-    "NPM Packages/Nodemon.md",
-    "NPM Packages/NPM Packages.md",
+    "Frameworks/Express/Express.md",
+    "Architecture/MVC.md",
+    "Architecture/Architecture.md",
     "ORMS/ORMS.md",
-    "ORMS/Redis.md"
+    "Frameworks/Frameworks.md",
+    "React/React.md",
+    "React/React Client/Tips/Tips.md",
+    "React/React Client/Tips/useEffect with async.md",
+    "React/React Client/React Client.md",
+    "React/Syntax/React Components.md"
   ]
 }

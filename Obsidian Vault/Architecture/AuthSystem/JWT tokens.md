@@ -14,7 +14,4 @@ In its compact form, [JSON Web Tokens](https://jwt.io/introduction) consist of t
 ## How to use
 ### Library to use
 Here [desc](https://jwt.io/libraries?language=JavaScript)<br>
--> jose -> `npm install jose`<br>
--> jsrsasign -> `npm install jsrsasign`<br>
--> jose-jwe-jws -> `npm install jose-jwe-jws`<br>
--> node-jose -> `npm install node-jose`<br>
+-> [jsonwebtoken ](https://www.npmjs.com/package/jsonwebtoken)
