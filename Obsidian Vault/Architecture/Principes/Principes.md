@@ -1,0 +1,8 @@
+[[DRY]]
+[[YAGNI]]
+[[SSOT]]
+[[KISS]]
+[[SOLID]]
+[[Avoid Premature Optimization]]
+[[Бритва Оккама]]
+[[MVC]]

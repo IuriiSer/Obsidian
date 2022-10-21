@@ -1,0 +1,2 @@
+### Overview
+[Conceptually](https://reactjs.org/docs/components-and-props.html), components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.

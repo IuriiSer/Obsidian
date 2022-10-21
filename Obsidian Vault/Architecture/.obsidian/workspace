@@ -1,34 +1,29 @@
 {
   "main": {
-    "id": "6b263a2bf6283414",
+    "id": "628d68792d99bac5",
     "type": "split",
     "children": [
       {
-        "id": "9381beedd09642b7",
+        "id": "ef05e3f63d6ba48a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Frameworks/Express/Express.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "603a3e3bbaf1a2c9",
+    "id": "003845bd57abef86",
     "type": "split",
     "children": [
       {
-        "id": "f989b0ec93b96a39",
+        "id": "49cad53670d80216",
         "type": "tabs",
         "children": [
           {
-            "id": "905044e8a9b9f979",
+            "id": "5dc939b8bb23ef9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,12 +31,12 @@
             }
           },
           {
-            "id": "0ae2491f4d18f672",
+            "id": "d47809eca497b4d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "req.para",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,59 +46,56 @@
             }
           },
           {
-            "id": "3a28b81eb2af8e6d",
+            "id": "b547c488b0ba27d5",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "726141fa8bf8d842",
+    "id": "6d5e20d8b35dd894",
     "type": "split",
     "children": [
       {
-        "id": "7e6bb5fc37038cad",
+        "id": "85379dcc415397cd",
         "type": "tabs",
         "children": [
           {
-            "id": "254e3c07cc691462",
+            "id": "52d404c6989ea4fa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frameworks/Express/Express.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4f8ccc9942cc45eb",
+            "id": "1e9543c4594ccb89",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frameworks/Express/Express.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "03c2d47309a67e9f",
+            "id": "1259b1e631743ecd",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,34 +106,26 @@
             }
           },
           {
-            "id": "f6ca195ff220defa",
+            "id": "24121d8af9f77f77",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Frameworks/Express/Express.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 188.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "9381beedd09642b7",
+  "active": "ef05e3f63d6ba48a",
   "lastOpenFiles": [
-    "NPM Packages/dotEnv expanded.md",
-    "Testing/Integration Tests.md",
-    "React/React Client/ReactRouter.md",
-    "Testing/Testing.md",
-    "TypeScript/TypeScript.md",
-    "Frontend Toolkits/Redux Thunk.md",
-    "Frontend Toolkits/Redux.md",
-    "Frontend Toolkits/Frontend Toolkits.md",
-    "React/Babel React.md",
-    "React/React Client/React Client.md"
+    "Fetch API + Ajax.md",
+    "Environment.md",
+    "Dynamic Script Adding.md",
+    "Client-rendered Application.md",
+    "Architecture.md"
   ]
 }

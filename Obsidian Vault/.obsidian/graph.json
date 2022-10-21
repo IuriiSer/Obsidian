@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Frameworks",
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 14701254
       }
+    },
+    {
+      "query": "path:Testing",
+      "color": {
+        "a": 1,
+        "rgb": 6479954
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10.0854700854701,
   "linkStrength": 0.803418803418804,
   "linkDistance": 30,
-  "scale": 0.48037869379824427,
-  "close": true
+  "scale": 0.234687078809428,
+  "close": false
 }

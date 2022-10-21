@@ -5,7 +5,7 @@
 -> [ReactDOMServer](https://ru.reactjs.org/docs/react-dom-server.html) <- The `ReactDOMServer` object enables you to render components to static markup. Typically, it’s used on a Node server:
 
 ### Require
-[[Babel React]]
+[[ReactBabel]]
 
 ### Start Project
 1 -> Creating views/Layout.jsx<br>
