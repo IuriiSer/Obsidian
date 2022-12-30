@@ -11,26 +11,14 @@ npm install react-router-dom@6
 import * as React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
-import Context from './lib/context';
-
 import Components from './view/components';
 import Pages from './view/pages';
 
 function App() {
   const [isAuth, setIsAuth] = React.useState(false);
 
-  React.useEffect(() => { // get isAut token for example }, []);
-	
-  const context = React.useMemo(() => ({ isAuth, setIsAuth }), [isAuth]);
   return (
-  <Context.Provider value={context}>
-	// context should be outer of BrowserRouter to keep data through renders
-	
 	<BrowserRouter> 
-		// <- where will be all links and routes
-	  <Components.Header />
-		// <- where we will change components on page
-		// routes which will be rendere depends on path
 	  <Routes>
 		<Route path="/"                element={<Pages.Restaurants />} />
 		<Route path="/restaraunts/:id" element={<Pages.RestarauntFullInfo />} />
@@ -40,8 +28,6 @@ function App() {
 	  
 	  <Footer />
 	</BrowserRouter>
-	
-  </Context.Provider>
   );
 }
 

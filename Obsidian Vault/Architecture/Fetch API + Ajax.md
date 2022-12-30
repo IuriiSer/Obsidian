@@ -1,13 +1,16 @@
 ### What Is 
-[**AJAX**](https://www.w3schools.com/js/js_api_fetch.asp) -> **A**synchronous **J**avaScript **A**nd **X**ML<br>
-AJAX is a developer's dream, because you can:<br>
-->   Read data from a web server - after a web page has loaded<br>
-->  Update a web page without reloading the page<br>
-->   Send data to a web server - in the background<br>
+[**AJAX**](https://www.w3schools.com/js/js_api_fetch.asp) **A**synchronous **J**avaScript **A**nd **X**ML
+
+AJAX is a developer's dream, because you can:
+-  Read data from a web server - after a web page has loaded
+- Update a web page without reloading the page
+-  Send data to a web server - in the background
+
 [**Fetch API**](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) -> The Fetch API provides an interface for fetching resources (including across the network). It will seem familiar to anyone who has used [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest), but the new API provides a more powerful and flexible feature set.
+
 ### How to use
--> use in async/await<br>
--> always check req before USAGE <br>
+- use in async/await
+- always check req before USAGE
 
 #### Base Syntax
 **Imp** -> ALWAYS check status after fetch()
@@ -52,8 +55,8 @@ async func someCallBack(req, res) {
 }
 ```
 #### Advance Syntax 
--> [MediaTypes](https://www.iana.org/assignments/media-types/media-types.xhtml)<br>
--> [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)<br>
+- [MediaTypes](https://www.iana.org/assignments/media-types/media-types.xhtml)
+- [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 
 ### Example
 #### Client side

@@ -1,0 +1,3 @@
+- [[UI]]
+- [[Redux]]
+- [[ReactRouter]] <- Make MultiPage app

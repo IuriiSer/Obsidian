@@ -7,11 +7,18 @@
 -> шаблонизаторы отделяют View от всего остального<br>
 
 ### Common
-[[React Types]]
-[[ReactSSR]]<br>
-[[Client-rendered Application]] <- Idea<br>
-[[Frontend Toolkits]] <- UI Biblio<br>
-[[ReactRouter]] <- Make MultiPage app<br>
+- [[React Types]]
+
+- [[ReactSSR]]
+- [[Client-rendered Application]]
+
+- [[Frontend Toolkits]]
+
+- [[Problems]]
+- [[Reconciliation]]
+- [[Fiber]]
+- [[Context]]
+
 
 ### First Steps
 #### Init project with WebPack

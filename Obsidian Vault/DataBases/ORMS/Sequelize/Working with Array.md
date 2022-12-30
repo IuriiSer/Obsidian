@@ -1,5 +1,5 @@
 ### What is
-if your column in model keep data in format `JSON.stringify([int1, int2, int3])``
+if your column in model keep data in format `JSON.stringify([int1, int2, int3])`
 use func below to work fast
 ### Funcs
 #### addValByKeyToUser.js

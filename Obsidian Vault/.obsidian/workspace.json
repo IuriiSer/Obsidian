@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2e143c5c1de83141",
+        "id": "0005e2c08d964a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "1dcc5b862ff1bed0",
+            "id": "1d34df6fb2a6c7bd",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,8 +16,35 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "236c36adb0f44223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ba7b37d7ad005eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RuntimeEnvironment/Node.js/Event Loop.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "req.para",
+                "query": "tag:#ACID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md"
+              }
             }
           }
         ],
@@ -131,20 +162,27 @@
     "width": 188.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "1dcc5b862ff1bed0",
+  "active": "236c36adb0f44223",
   "lastOpenFiles": [
-    "Architecture/Architecture.md",
-    "Architecture/Principes/Principes.md",
-    "Architecture/Principes/Avoid Premature Optimization.md",
-    "React/SSR/ReactSSR.md",
-    "React/SSR/ReactBabel.md",
-    "Architecture/Rest/Rest API.md",
-    "Architecture/Principes/MVC.md",
-    "Architecture/Principes/Бритва Оккама.md",
-    "Architecture/Principes/SOLID/D - Dependency Inversion Principle.md",
-    "Architecture/Principes/SOLID/I - Interface Segregation Principle.md"
+    "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
+    "RuntimeEnvironment/Node.js/BlockingProblem/child_processes.md",
+    "RuntimeEnvironment/Node.js/BlockingProblem/worker_threads.md",
+    "RuntimeEnvironment/Node.js/Multithreading.md",
+    "RuntimeEnvironment/RuntimeEnvironment.md",
+    "RuntimeEnvironment/Node.js/Event Loop.md",
+    "RuntimeEnvironment/Node.js/Node.js.md",
+    "Open API/Maps/Yandex Maps/Yandex Maps.md",
+    "RuntimeEnvironment/Node.js/worker_threads 1.md",
+    "Languages/Languages.md"
   ]
 }
