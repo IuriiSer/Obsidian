@@ -1,0 +1,1 @@
+- [hash](https://habrahabr.ru/company/postgrespro/blog/328280/)

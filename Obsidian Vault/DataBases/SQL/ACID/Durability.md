@@ -1,0 +1,1 @@
+ensures that the result or effect of a committed transaction persists in case of a system failure.

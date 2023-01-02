@@ -16,35 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "236c36adb0f44223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba7b37d7ad005eab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RuntimeEnvironment/Node.js/Event Loop.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ACID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 376.5
   },
   "right": {
     "id": "726141fa8bf8d842",
@@ -110,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,17 +141,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236c36adb0f44223",
+  "active": "1d34df6fb2a6c7bd",
   "lastOpenFiles": [
-    "RuntimeEnvironment/Node.js/BlockingProblem/BlockingProblem.md",
-    "RuntimeEnvironment/Node.js/BlockingProblem/child_processes.md",
-    "RuntimeEnvironment/Node.js/BlockingProblem/worker_threads.md",
-    "RuntimeEnvironment/Node.js/Multithreading.md",
-    "RuntimeEnvironment/RuntimeEnvironment.md",
-    "RuntimeEnvironment/Node.js/Event Loop.md",
-    "RuntimeEnvironment/Node.js/Node.js.md",
-    "Open API/Maps/Yandex Maps/Yandex Maps.md",
-    "RuntimeEnvironment/Node.js/worker_threads 1.md",
-    "Languages/Languages.md"
+    "Architecture/DesignPatterns/DesignPatterns.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Adapter.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Flyweight.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Composite.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Bridge.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Decorator.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Facade.md",
+    "Architecture/DesignPatterns/StructuralPatterns/Proxy.md",
+    "DataBases/SQL/Types/PostgreSQL/Индексы (Методы доступа)/Индексы (Методы доступа).md",
+    "Architecture/DesignPatterns/CreationalPatterns/CreationalPatterns.md"
   ]
 }

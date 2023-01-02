@@ -1,0 +1,1 @@
+- [sp-gist](https://habrahabr.ru/company/postgrespro/blog/337502/)

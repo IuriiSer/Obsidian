@@ -36,10 +36,24 @@
       }
     },
     {
+      "query": "path:DataBases/SQL/Types/PostgreSQL",
+      "color": {
+        "a": 1,
+        "rgb": 8422358
+      }
+    },
+    {
       "query": "path:DataBases",
       "color": {
         "a": 1,
-        "rgb": 5412832
+        "rgb": 5401056
+      }
+    },
+    {
+      "query": "path:Architecture/DesignPatterns",
+      "color": {
+        "a": 1,
+        "rgb": 3116645
       }
     },
     {
@@ -60,7 +74,7 @@
       "query": "path:\"Open API\"",
       "color": {
         "a": 1,
-        "rgb": 7105739
+        "rgb": 10329554
       }
     },
     {
@@ -102,6 +116,6 @@
   "repelStrength": 10.0854700854701,
   "linkStrength": 0.803418803418804,
   "linkDistance": 30,
-  "scale": 1.1761208090897177,
+  "scale": 0.4803786937983128,
   "close": false
 }

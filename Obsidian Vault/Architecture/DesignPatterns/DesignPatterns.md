@@ -1,0 +1,3 @@
+- [[CreationalPatterns]]
+- [[StructuralPatterns]]
+- [[BehavioralPatterns]]

@@ -1,0 +1,1 @@
+ensures that the database properly changes states upon a successfully committed transaction.

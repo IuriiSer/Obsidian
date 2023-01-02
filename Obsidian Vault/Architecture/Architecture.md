@@ -12,4 +12,5 @@ All Principes to build good app.<br><br>
 
 [[Principes]]
 
+[[DesignPatterns]]
 

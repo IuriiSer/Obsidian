@@ -1,0 +1,1 @@
+- [brin](https://habrahabr.ru/company/postgrespro/blog/346460/)

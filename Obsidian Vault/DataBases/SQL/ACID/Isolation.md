@@ -1,0 +1,1 @@
+enables transactions to operate independently of and transparent to each other.

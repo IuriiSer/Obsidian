@@ -4,19 +4,13 @@ A transaction is a unit of work that is performed against a database. Transactio
 
 Transactions have the following four standard properties, usually referred to by the acronym [[ACID]].
 
-
-    
-
 ### Transaction Control
 
 The following commands are used to control transactions.
 
 -   **COMMIT** − to save the changes.
-    
 -   **ROLLBACK** − to roll back the changes.
-    
 -   **SAVEPOINT** − creates points within the groups of transactions in which to ROLLBACK.
-    
 -   **SET TRANSACTION** − Places a name on a transaction.
 
 ## Transactional Control Commands
